@@ -1,19 +1,17 @@
 # Ink
-### Journal, reimagined.
+### Your journal, reimagined.
 
 ## Design Philosophy
 
-Across technology, the products people trust most aren’t winning by doing more — they’re winning by doing **one thing intentionally well**.
+Across technology, the products people trust most aren't winning by doing more — they're winning by doing **one thing intentionally well**.
 
-**WHOOP** chose to remove the screen entirely. No notifications, no apps — just recovery, strain, and sleep interpreted clearly. That restraint is exactly why people prefer it.
+**There's a quiet shift happening.** Many creators still choose dedicated or physical cameras over phone cameras, not for convenience, but for focus, control, and intentional use. People are choosing analog over digital, not out of nostalgia, but out of necessity.
 
-Many creators still choose **dedicated or physical cameras** over phone cameras, not for convenience, but for focus, control, and intentional use.
+The pattern runs deeper: paper planners, physical notebooks, e-ink readers, mechanical keyboards, fountain pens. People are deliberately choosing tools that do less, distract less, demand less attention.
 
-In both cases, the value comes from what the product *doesn’t* try to be.
+In every case, the value comes from what the product *doesn't* try to be.
 
 We believe journaling works best the same way.
-
-At the same time, people continue to choose simpler tools — paper planners, physical notebooks, and e-ink readers — not out of nostalgia, but because they reduce noise and help sustain focus.
 
 **The pattern is consistent:**
 > Do fewer things, but do the right one extremely well.
@@ -22,21 +20,18 @@ At the same time, people continue to choose simpler tools — paper planners, ph
 Most journaling apps try to do everything:
 prompts, streaks, gamification, chatbots, feeds, metrics.
 
-Instead of helping reflection, they can turn journaling into performance.
-
 ### Ink’s philosophy
 Ink takes the opposite approach.
 
-- **No prompts**
-- **No chat**
-- **No gamification**
-- **Just a blank page — honest, private, uninterrupted**
-- With digital benefits: **portability, permanence, calendar organization, and gentle weekly insights**
+- No prompts
+- No chat
+- No gamification
+- Just a blank page — honest, private, uninterrupted
+- With the digital benefits that matter: portability, permanence, effortless organization, and gentle weekly insights that surface naturally.
 
-Writing comes first. Insight comes later.
+Writing comes first. Understanding comes later.
 
-> “We simplified the writing experience — not because we could do less, but because doing more would get in the way.”
+### Future vision
+This philosophy extends beyond software. Ink is designed to evolve into a thin, premium e-ink journal device — a calm tool you pick up to write, not to scroll. A modern take on the physical journal that preserves the ritual while keeping digital's best gifts.
 
-### Future vision (hardware)
-This philosophy extends beyond software: Ink is designed to evolve into a **thin, premium e-ink journal device** — a calm tool you pick up to write, not to scroll. A modern “physical journal” that preserves the ritual of writing while keeping the benefits of digital.
-
+**Built by Team Ink for the AI Agent Innovation Hackathon**
